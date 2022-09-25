@@ -5,4 +5,9 @@
 - 🌱 I’m currently trying out several projects.
 
 LANGUAGES
-JAVA, JSP, PYTHON, C, C++, HTML, CSS,...
+Html/CSS/Javascript
+React
+JAVA
+Python
+C, C++
+SQL (MariaDB, MongoDB)
